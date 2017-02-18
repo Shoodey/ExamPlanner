@@ -1,0 +1,10 @@
+{
+  "name": "exam-planner",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Shoodey <shoodey@gmail.com>",
+  "private": false,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
